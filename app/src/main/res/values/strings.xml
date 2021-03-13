@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">splashtrial1</string>
+    <string name="ob_header1">COURSES</string>
+    <string name="ob_header2">FACE TO FACE</string>
+    <string name="ob_header3">TEACHERS</string>
+    <string name="ob_header4">COST EFFICIENT</string>
+
+    <string name="ob_get_started">GET STARTED</string>
+
+    <string name="ob_desc1">We provide a wide range of courses with high quality content</string>
+    <string name="ob_desc2">Face to Face interaction with the teacher to make learning more interesting and knowledgable</string>
+    <string name="ob_desc3">We have the best teachers with us onboard!</string>
+    <string name="ob_desc4">We provide courses with minimal cost and abundant study material</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+</resources>
