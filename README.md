@@ -1,2 +1,1 @@
-# salik
- bbsbsb
+#salik
